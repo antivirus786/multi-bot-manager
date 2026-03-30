@@ -89,20 +89,6 @@ multi-bot-manager/
 
 ---
 
-## 🔒 Security — Important
-
-Add a `.gitignore` file to make sure your tokens are never accidentally pushed to GitHub:
-
-```
-# .gitignore
-token.txt
-node_modules/
-```
-
-If you accidentally committed tokens, **invalidate them immediately** in the Discord Developer Portal and generate new ones.
-
----
-
 ## 🔧 Customization
 
 **Change the activity/status of each bot:**
