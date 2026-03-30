@@ -54,7 +54,6 @@ YOUR_SECOND_BOT_TOKEN
 YOUR_THIRD_BOT_TOKEN
 ```
 
-> ⚠️ **Never commit `token.txt` to GitHub.** Add it to your `.gitignore` immediately (see below).
 
 **4. Run the manager**
 ```bash
